@@ -434,6 +434,12 @@ a {
    }
 }
 
+
+img {
+   border-radius: 2rem; // adjust this value as per your preference
+}
+
+
 // section-header style
 .section-header {
    padding: $base-padding * 9.4 0 $base-padding * 4.1;

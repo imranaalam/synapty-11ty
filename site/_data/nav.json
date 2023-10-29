@@ -2,32 +2,14 @@
   "logo": "/images/logo.svg",
   "items": [
     {
-      "text": "Home",
-      "link": "/",
+      "text": "Work",
+      "link": "/work/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Feature",
-      "link": "/feature/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
-      "text": "Pricing",
-      "link": "/pricing/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
-      "text": "About",
-      "link": "/about/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
-      "text": "Blog",
-      "link": "/blog/",
+      "text": "Insights",
+      "link": "/blogs/",
       "enable_dropdown": true,
       "dropdown": [
         {
@@ -44,16 +26,138 @@
         }
       ]
     },
+
     {
-      "text": "Contact",
-      "link": "/contact/",
+      "text": "Services",
+      "link": "/services/",
+      "enable_dropdown": true,
+      "dropdown": [
+        {
+          "dropdown_text": "Artificial Intelligence",
+          "dropdown_link": "/services/artificial-intelligence/"
+        },
+        {
+          "dropdown_text": "Branding and Design",
+          "dropdown_link": "/services/branding-and-design/"
+        },
+        {
+          "dropdown_text": "Customer Experience",
+          "dropdown_link": "/services/customer-experience/"
+        },
+        {
+          "dropdown_text": "Data and Analytics",
+          "dropdown_link": "/services/data-and-analytics/"
+        },
+        {
+          "dropdown_text": "Digital Commerce",
+          "dropdown_link": "/services/digital-commerce/"
+        },
+        {
+          "dropdown_text": "Marketing",
+          "dropdown_link": "/services/marketing/"
+        },
+        {
+          "dropdown_text": "Metaverse",
+          "dropdown_link": "/services/metaverse/"
+        },
+        {
+          "dropdown_text": "Supply Chain Management",
+          "dropdown_link": "/services/supply-chain-management/"
+        },
+        {
+          "dropdown_text": "Technology Consulting",
+          "dropdown_link": "/services/technology-consulting/"
+        }
+      ]
+    },
+    {
+      "text": "Industries",
+      "link": "/industries/",
+      "enable_dropdown": true,
+      "dropdown": [
+        {
+          "dropdown_text": "Banking & Financial",
+          "dropdown_link": "/industries/banking-financial/"
+        },
+        {
+          "dropdown_text": "Construction & Real Estate",
+          "dropdown_link": "/industries/construction-real-estate/"
+        },
+        {
+          "dropdown_text": "Consumer Goods",
+          "dropdown_link": "/industries/consumer-goods/"
+        },
+        {
+          "dropdown_text": "Construction Materials",
+          "dropdown_link": "/industries/construction-materials/"
+        },
+        {
+          "dropdown_text": "Education & Research",
+          "dropdown_link": "/industries/education-research/"
+        },
+        {
+          "dropdown_text": "Electronics & Appliances",
+          "dropdown_link": "/industries/electronics-appliances/"
+        },
+        {
+          "dropdown_text": "Energy & Utilities",
+          "dropdown_link": "/industries/energy-utilities/"
+        },
+        {
+          "dropdown_text": "FMCG & Retail",
+          "dropdown_link": "/industries/fmcg-retail/"
+        },
+        {
+          "dropdown_text": "Food & Beverages",
+          "dropdown_link": "/industries/food-beverages/"
+        },
+        {
+          "dropdown_text": "IT & Technology",
+          "dropdown_link": "/industries/it-technology/"
+        },
+        {
+          "dropdown_text": "Manufacturing & Industrial",
+          "dropdown_link": "/industries/manufacturing-industrial/"
+        },
+        {
+          "dropdown_text": "Metal & Steel",
+          "dropdown_link": "/industries/metal-steel/"
+        },
+        {
+          "dropdown_text": "Oil, Gas & Chemicals",
+          "dropdown_link": "/industries/oil-gas-chemicals/"
+        },
+        {
+          "dropdown_text": "Pharmaceuticals & Health",
+          "dropdown_link": "/industries/pharmaceuticals-health/"
+        },
+        {
+          "dropdown_text": "Software & IT Services",
+          "dropdown_link": "/industries/software-it-services/"
+        },
+        {
+          "dropdown_text": "Textiles & Apparel",
+          "dropdown_link": "/industries/textiles-apparel/"
+        },
+        {
+          "dropdown_text": "Miscellaneous",
+          "dropdown_link": "/industries/miscellaneous/"
+        }
+      ]
+    },
+
+    {
+      "text": "About",
+      "link": "/about/",
       "enable_dropdown": false,
       "dropdown": []
     }
   ],
+  
   "enable_nav_btn": true,
   "nav_btn": {
     "text": "Get Started",
     "link": "/signup/"
   }
+
 }

@@ -12,10 +12,7 @@
       "link": "/blogs/",
       "enable_dropdown": true,
       "dropdown": [
-        {
-          "dropdown_text": "All Articles",
-          "dropdown_link": "/blog"
-        },
+
         {
           "dropdown_text": "Marketing",
           "dropdown_link": "/tags/marketing/"

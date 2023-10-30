@@ -437,6 +437,8 @@ a {
 
 img {
    border-radius: 2rem; // adjust this value as per your preference
+   width: 100%;
+   height: auto;
 }
 
 
@@ -516,6 +518,8 @@ img {
       }
       img {
          max-width: 100%;
+         width: 100%;
+         height: auto;
       }
    }
 }

@@ -81,6 +81,8 @@ We are committed to not just meeting but exceeding your expectations and helping
 
 --------
 
+![](../OTS%20%20marketing%20Strategy.png)
+
 ## Budget Disclaimer
 
 Certainly, let's clarify the specifics related to the Digital Advertising and what is included in the charges.
@@ -138,6 +140,9 @@ In essence, the logo encapsulates Olive Technology Services' mission to offer re
 
 
 -----------
+
+![](../SAP%20by%20sector%20in%20Pakistan.png)
+
 ## SAP Customer by Sector
 
 
@@ -167,6 +172,8 @@ In essence, the logo encapsulates Olive Technology Services' mission to offer re
 
 --------
 
+![](../Regional%20players%20of%20SAP%20and%20cloud.png)
+
 ## Regional and International SAP and Cloud Service Providers
 
 Here is a brief overview of the SAP Cloud services provided by each company:
@@ -187,6 +194,9 @@ Here is a brief overview of the SAP Cloud services provided by each company:
 
 
 --------
+
+![](../branding%20and%20positioning.png)
+
 
 ## Branding and positioning (Test Run)
 
@@ -260,6 +270,8 @@ By adhering to these branding and positioning strategies, Olive Technical Servic
 --------
 
 
+![](../proposed%20campaign%20strategy%20OTS%20cloud%20and%20SAP%20Pakistan.png)
+
 ### Proposed Campaign Strategy:
 
 #### 1. *Campaign Theme Ideas:*
@@ -313,6 +325,8 @@ This generalized approach allows for a flexible yet strategic campaign aimed at 
 
 --------
 
+![](../campaign%20theme%20ideas.png)
+
 ## Campaign Theme Ideas
 
 Absolutely, let's dive into more details for campaign theme ideas for Disaster Recovery as a Service (DRaaS) and Cloud Infrastructure as a Service (IaaS). 
@@ -338,7 +352,7 @@ Absolutely, let's dive into more details for campaign theme ideas for Disaster R
 --------
 
 
-
+![](../competative%20analysis%20Cloud%20PTCL.png)
 
 ## Competative Analysis
 

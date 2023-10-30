@@ -9,12 +9,13 @@
     "bookshop-sass:fetch-theme-color": "node site/js/fetch-theme-color.js",
     "bookshop-sass:build": "bookshop-sass -b component-library -o site/css/theme.css",
     "bookshop-sass:watch": "bookshop-sass -b component-library -o site/css/theme.css -w",
-    "eleventy:build": "cross-env ELEVENTY_ENV=production eleventy",
-    "eleventy:watch": "cross-env ELEVENTY_ENV=development eleventy --serve",
-    "start": "npm-run-all bookshop-sass:fetch-theme-color bookshop-sass:build --parallel bookshop-sass:watch bookshop:watch eleventy:watch"
+    "eleventy:build": "ELEVENTY_ENV=production eleventy",
+    "eleventy:watch": "ELEVENTY_ENV=development eleventy --serve",
+    "eleventy:build-win": "cross-env ELEVENTY_ENV=production eleventy",
+    "eleventy:watch-win": "cross-env ELEVENTY_ENV=development eleventy --serve",
+    "start": "npm-run-all bookshop-sass:fetch-theme-color bookshop-sass:build --parallel bookshop-sass:watch bookshop:watch eleventy:watch-win"
   },
   "author": "CloudCannon",
-  "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1",

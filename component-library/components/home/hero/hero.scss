@@ -1,3 +1,7 @@
+img {
+  border-radius: 1rem;
+}
+
 .hero-two {
   position: relative;
   background: $color-gray-dark;
@@ -75,7 +79,7 @@
       padding-right: initial;
     }
     img {
-      border-radius: 0px;
+      border-radius: 1rem;
     }
     &-shape {
       -webkit-mask-image: url(/images/hero/hero-three-shape.png);

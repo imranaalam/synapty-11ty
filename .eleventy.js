@@ -30,14 +30,14 @@ module.exports = function (eleventyConfig) {
   );
   eleventyConfig.ignores.add("site/schemas");
   eleventyConfig.addPassthroughCopy("site/css");
-  eleventyConfig.addPassthroughCopy("site/fonts");
+  // eleventyConfig.addPassthroughCopy("site/fonts");
   // eleventyConfig.addPassthroughCopy("site/images");
 
   eleventyConfig.addPassthroughCopy("site/js");
   eleventyConfig.addPassthroughCopy("site/vendor");
 
     // Add this line to copy only .jpg, .png, and .webp files
-    eleventyConfig.addPassthroughCopy("site/**/*.{jpg,png,webp,ico,svg}");
+    eleventyConfig.addPassthroughCopy("site/**/*.{jpg,png,webp,ico}");
 
   return {
     dir: {

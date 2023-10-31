@@ -44,7 +44,7 @@ Our immediate focus will be:
 | Name                | Muhammad Imran Alam   |
 |---------------------|-----------------------|
 | Email               | imranaalam@gmail.com  |
-| Phone               | +92 32 515 38 70      |
+| Phone               | +92 322 515 38 70      |
 | LinkedIn            | [Muhammad Imran Alam](https://www.linkedin.com/in/muhammad-alam-b611061a/) |
 
 ---
@@ -52,7 +52,7 @@ Our immediate focus will be:
 | Name                | Jawad Farooq          |
 |---------------------|-----------------------|
 | Email               | javad.farooq@gmail.com |
-| Phone               | +92 321 2652233       |
+| Phone               | +92 321 265 22 33       |
 | YouTube             | [Jawad Farooq](https://www.youtube.com/@JawadFarooq) |
 
 

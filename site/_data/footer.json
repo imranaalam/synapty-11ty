@@ -1,29 +1,29 @@
 {
   "logo": "/images/logo.svg",
-  "copyright": "MyCompany, All rights reserved!",
+  "copyright": "Synapty, All rights reserved!",
   "social": [
     {
-      "link": "https://www.facebook.com/",
+      "link": "https://www.facebook.com/synapty",
       "icon": "ph-facebook-logo",
       "icon_alt": "Facebook"
     },
     {
-      "link": "https://www.instagram.com/",
+      "link": "https://www.instagram.com/synapty",
       "icon": "ph-instagram-logo",
       "icon_alt": "Instagram"
     },
     {
-      "link": "https://twitter.com/",
+      "link": "https://twitter.com/synapty",
       "icon": "ph-twitter-logo",
       "icon_alt": "Twitter"
     },
     {
-      "link": "https://www.github.com/",
+      "link": "https://www.github.com/synapty",
       "icon": "ph-github-logo",
       "icon_alt": "GitHub"
     },
     {
-      "link": "https://www.youtube.com/",
+      "link": "https://www.youtube.com/synapty",
       "icon": "ph-youtube-logo",
       "icon_alt": "YouTube"
     }
@@ -55,7 +55,7 @@
       "links": [
         {
           "link": "/blog",
-          "text": "Blog"
+          "text": "insights"
         },
         {
           "link": "/404",

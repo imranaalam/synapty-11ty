@@ -40,9 +40,23 @@ Our immediate focus will be:
 
 ### Point of Contact
 
-- Muhammad Imran Alam 
-- Email: imranaalam@gmail.com
-- Phone: +92 32 515 38 70
+
+| Name                | Muhammad Imran Alam   |
+|---------------------|-----------------------|
+| Email               | imranaalam@gmail.com  |
+| Phone               | +92 32 515 38 70      |
+| LinkedIn            | [Muhammad Imran Alam](https://www.linkedin.com/in/muhammad-alam-b611061a/) |
+
+---
+
+| Name                | Jawad Farooq          |
+|---------------------|-----------------------|
+| Email               | javad.farooq@gmail.com |
+| Phone               | +92 321 2652233       |
+| YouTube             | [Jawad Farooq](https://www.youtube.com/@JawadFarooq) |
+
+
+
 
 ## Scope of Work
 
@@ -111,7 +125,6 @@ Spreading the workload over 5 months for creating 250 SEO-optimized articles and
 6. **Reporting and Insights (End of Month 5):**
    Prepare comprehensive reports detailing the performance of the campaigns and provide insights for future campaigns.
 
- * **B2B Influencer Marketing**: Partner with key influencers in the IT and Cloud Services sectors to endorse and amplify the OTS brand.
 
 
 #### Influencer Marketing (2 Min):
@@ -201,7 +214,7 @@ We are committed to not just meeting but exceeding your expectations and helping
 
 ## Budget Disclaimer
 
-Certainly, let's clarify the specifics related to the Digital Advertising and what is included in the charges.
+ let's clarify the specifics related to the Digital Advertising and what is included in the charges.
 
 ### Digital Advertising Budget Inclusions:
 
@@ -698,7 +711,7 @@ Absolutely, let's dive into more details for campaign theme ideas for Disaster R
 
 
 
-Certainly, let's integrate the new details with the previously consolidated list to create a comprehensive overview of TMC's strengths:
+
 
 **Certifications**: TMC Cloud holds ISO 27001 & ISO 20000-1 certifications, affirming their commitment to data security and service management.
 

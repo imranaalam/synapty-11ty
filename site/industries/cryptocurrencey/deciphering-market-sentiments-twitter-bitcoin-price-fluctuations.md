@@ -18,12 +18,12 @@ tags:
   - sentiment-analysis
   - twitter
   - market-trends
-author: [Your Name or Pseudonym]
+author: Imran Alam
 thumbImg:
-  image: ../twitter-bitcoin-sentiment-analysis-thumb.png
+  image: ../twitter-bitcoin-sentiment-analysis.png
   image_alt: "Analyzing Twitter Sentiments in the Bitcoin Market"
 featuredImg:
-  image: ../twitter-bitcoin-sentiment-analysis-featured.png
+  image: ../twitter-bitcoin-sentiment-analysis.png
   image_alt: "Deciphering the Impact of Twitter on Bitcoin Price Fluctuations"
 draft: false
 ---
@@ -41,6 +41,8 @@ In their quest for accuracy, researchers [explored two different neural network 
 
 Another angle of exploration was [a study aiming to unveil the link between Bitcoin's price volatility and the sentiments echoed on Twitter](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-022-00352-7). They amassed [a large dataset of tweets from February to July 2021, and analyzed it against Bitcoin’s trading performance](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-022-00352-7). The findings indicated that [Twitter sentiments have a slight impact on Bitcoin's price and trading volumes](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-022-00352-7), reinforcing the idea that Twitter sentiment analysis could be a useful tool in the cryptocurrency trading arena, although other factors also play significant roles in price determination.
 
+
+![](twitter%20sentiment%20analysis%20for%20Bitcoin%20price%20prediction.png)
 
 ## Introduction
 

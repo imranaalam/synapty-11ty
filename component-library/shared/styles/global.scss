@@ -274,16 +274,23 @@ p {
    margin-top: 0;
    margin-bottom: $base-margin;
    letter-spacing: -0.4px;
+   /* Removed the margin and padding here as they are defined below */
 }
+
 a {
-   color: $color-text;
-   text-decoration: none;
-   display: inline-block;
-   transition: $base-transition;
-   a:hover {
-      color: $color-text;
-   }
+   color: #282828; /* Standard hex color value */
+   text-decoration: underline dotted blue;
+   text-decoration-thickness: 2px; /* Ensuring the dots are thick enough */
+   overflow-wrap: break-word;
+   /* Removed the display property to allow default inline behavior */
+   transition: all 0.5s ease-in-out; /* Smooth transition for hover effects */
+ }
+
+a:hover {
+   color: $color-text; /* Ensure this variable is defined */
 }
+
+
 // Learn-more links
 .load-mores {
    color: $color-primary;
@@ -433,6 +440,11 @@ a {
       }
    }
 }
+
+
+
+
+  /* Other styles... */
 
 
 img {

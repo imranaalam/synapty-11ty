@@ -1,4 +1,9 @@
 {% include './layouts/head.liquid' %}
+<style>
+  .no-break a {
+  white-space: nowrap; /* Prevents breaking in anchor text */
+}
+</style>
 <main>
   <section class="blog-details">
     <div class="container">
@@ -38,7 +43,7 @@
               src="{{ featuredImg.image }}"
               class="w-100 mb-xxl-11 mb-8"
               alt="{{ featuredImg.image_alt }}" />
-            <div style="max-width: 900px; margin: 0 auto">{{ content }}</div>
+            <div style="max-width: 900px; margin: 0 auto;">{{ content }}</div>
           </article>
         </div>
       </div>
